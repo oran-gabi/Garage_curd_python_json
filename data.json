@@ -1,0 +1,37 @@
+[
+    {
+        "color": "Red",
+        "ownersname": "Jhon Snow",
+        "brand": "Ferari",
+        "model": "911",
+        "year": "2002"
+    },
+    {
+        "color": "green",
+        "ownersname": "Jimmy",
+        "brand": "Land Rover",
+        "model": "Series IIA",
+        "year": 2010
+    },
+    {
+        "color": "Blue",
+        "ownersname": "Oran",
+        "brand": "Porche",
+        "model": "Carera",
+        "year": "2024"
+    },
+    {
+        "color": "Gold",
+        "ownersname": "O-ren",
+        "brand": "Mazarati",
+        "model": "-k-007",
+        "year": "2025"
+    },
+    {
+        "color": "Silver",
+        "ownersname": "Eshimuto",
+        "brand": "Dodge",
+        "model": "Viper",
+        "year": "1987"
+    }
+]
